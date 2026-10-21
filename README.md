@@ -96,9 +96,7 @@ pip install -r requirements.txt
 ```
 
 Run the notebooks in `notebooks/`:
-1. `01_data_cleaning.ipynb` — cleans data and exports `data/fifa19_cleaned.csv`.
-2. `02_data_visualization.ipynb` — generates all charts and saves images to `charts/`.
-
+1. `FIFA19_Player_Analysis.ipynb`
 ---
 
 ## Repository Files
@@ -116,11 +114,10 @@ fifa-19-player-data/
 │   ├── kl.csv
 │   └── fifa19_cleaned.csv
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   └── 02_data_visualization.ipynb
-├── report/
-│   └── insights_report.md
+│   ├── FIFA19_Player_Analysis.ipynb
 ├── requirements.txt
+├── FIFA19_Project_Proposal.docx
+├── FIFA19_Project_Proposal.pdf
 └── README.md
 ```
 
